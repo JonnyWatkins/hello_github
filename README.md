@@ -12,3 +12,6 @@ Updated readme for branch 1
 
 Updated readme for branch 2
 
+Added CSV file in to the CSV branch
+
+Added carriage returns to text files
